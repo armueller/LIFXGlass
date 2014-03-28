@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LIFX Glass</string>
+    <string name="glass_voice_trigger">control my lights</string>
+    <string name="voice_prompt_all_on">Turn all lights on</string>
+    <string name="voice_prompt_all_off">Turn all lights off</string>
+    <string name="no_lights">No LIFX bulbs detected!</string>
+    <string name="lights_connected">Lights connected:</string>
+    <string name="turning_off_all_lights">Turning off all lights</string>
+    <string name="turning_on_all_lights">Turning on all lights</string>
+    <string name="turned_off_lights">Successfully turned off $0 lights</string>
+    <string name="turned_on_lights">Successfully turned on $0 lights</string>
+    <string name="turned_off_some_lights">Successfully turned off $0 out of $1 lights</string>
+    <string name="turned_on_some_lights">Successfully turned on $0 out of $1 lights</string>
+
+</resources>
