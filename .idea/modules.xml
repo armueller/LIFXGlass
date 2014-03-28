@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LIFX Glass/LIFX Glass.iml" filepath="$PROJECT_DIR$/LIFX Glass/LIFX Glass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LIFX SDK/LIFX SDK.iml" filepath="$PROJECT_DIR$/LIFX SDK/LIFX SDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifxglass.iml" filepath="$PROJECT_DIR$/lifxglass.iml" />
+    </modules>
   </component>
 </project>
 
